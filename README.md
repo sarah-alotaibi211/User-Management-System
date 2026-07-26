@@ -30,7 +30,7 @@ The system allows users to:
 - toggle.php
 - db.php
 - style.css
-- script.js
+- scriptt.js
 
 ---
 
