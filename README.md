@@ -2,6 +2,14 @@
 A simple user management system using HTML, CSS, JavaScript, PHP, and MySQL with AJAX toggle functionality.
 
 
+
+## Screenshot
+
+![Project Screenshot](screenshot2.png)
+
+
+
+
 ## Project Description
 This project is a simple web application developed using HTML, CSS, JavaScript, PHP, and MySQL.
 
@@ -50,10 +58,6 @@ The system allows users to:
 - Responsive and clean interface.
 
 ---
-
-## Screenshot
-
-![Project Screenshot](screenshot2.png)
 
 ## Auther
 Sarah Saud Alotaibi
