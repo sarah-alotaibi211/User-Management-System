@@ -1,7 +1,6 @@
 # User-Management-System
 A simple user management system using HTML, CSS, JavaScript, PHP, and MySQL with AJAX toggle functionality.
 
-# User Management System
 
 ## Project Description
 This project is a simple web application developed using HTML, CSS, JavaScript, PHP, and MySQL.
